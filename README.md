@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## ***Overview of Election-Audit***
 An election board in Colorado has asked that an election-audit be conducted on a recent local congressional election. The following tasks include:
