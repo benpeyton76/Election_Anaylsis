@@ -26,7 +26,7 @@ Diana DeGette won the election with 272,892 votes out of 369,711. That is 73.8% 
 
 <img width="361" alt="Screen Shot 2022-04-06 at 2 11 42 PM" src="https://user-images.githubusercontent.com/87077325/162051088-8ed22ee8-a57c-417b-995f-333f33d2ad74.png">
  
-## ***Election-Audit Summary***
+## ***Election-Audit Summary:***
 
 This script can be used in any election cycle. As shown, it can extract and calculate massive amounts of data and refine it in a very efficient way. Not only was this script used to find total votes by county and candidate, but it could also find the total votes within the district and counties. It can also calculate percentages which is extremely helpful in, not only elections themselves, but election polling as well.  The script can be modified to include a larger portion of a state by expanding the county library. For example, if one wants to know how the entire northern region of Colorado voted, with the correct raw data, voting patterns can be found as a broader region as opposed to only a district. By adding variables to the names of the candidates, a commission could use this data to see trends in political party concentration. For example, by adding the party affiliation (Democrat, Republican, Independent) one could see how which part of a county, district, or state tends to vote. 
 
